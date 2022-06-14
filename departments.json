@@ -1,0 +1,506 @@
+[
+	{
+		"dapartmentName": "Creative",
+		"color": "#e9cbff",
+		"users": [
+			{
+				"name": "John M",
+				"role": "Manager",
+				"email": "john.m@companyName.com",
+				"emailGroup": "production",
+				"calendar": "https://calendar.google.com/calendar/embed?src=john.m%40companyName.com&ctz=America%2FNew_York",
+				"slackToken": "912uaisfuiaerenqa0wfcieurcnkz",
+				"slackChannels": ["#production", "#production-2"],
+				"department": "Production",
+				"avatar": "https://randomuser.me/api/portraits/",
+				"devices": [
+					{
+						"name": "iPhone X",
+						"macAddress": "00:00:00:00:00:00",
+						"ipAddress": "127.0.0.1",
+						"os": "iOS",
+						"osVersion": "11.0",
+						"token": "",
+						"applications": [
+							{
+								"name": "App 1",
+								"version": "1.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							},
+							{
+								"name": "App 2",
+								"version": "2.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							}
+						]
+					},
+					{
+						"name": "Macbook Pro",
+						"macAddress": "00:00:00:00:00:00",
+						"ipAddress": "127.0.0.1",
+						"os": "iOS",
+						"osVersion": "11.0",
+						"token": "",
+						"applications": [
+							{
+								"name": "App 1",
+								"version": "1.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							},
+							{
+								"name": "App 2",
+								"version": "2.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"dapartmentName": "Account",
+		"color": "#e9cbff",
+		"users": [
+			{
+				"name": "John M",
+				"role": "Manager",
+				"email": "john.m@companyName.com",
+				"emailGroup": "production",
+				"calendar": "https://calendar.google.com/calendar/embed?src=john.m%40companyName.com&ctz=America%2FNew_York",
+				"slackToken": "912uaisfuiaerenqa0wfcieurcnkz",
+				"slackChannels": ["#production", "#production-2"],
+				"department": "Production",
+				"avatar": "https://randomuser.me/api/portraits/",
+				"devices": [
+					{
+						"name": "iPhone X",
+						"macAddress": "00:00:00:00:00:00",
+						"ipAddress": "127.0.0.1",
+						"os": "iOS",
+						"osVersion": "11.0",
+						"token": "",
+						"applications": [
+							{
+								"name": "App 1",
+								"version": "1.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							},
+							{
+								"name": "App 2",
+								"version": "2.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							}
+						]
+					},
+					{
+						"name": "Macbook Pro",
+						"macAddress": "00:00:00:00:00:00",
+						"ipAddress": "127.0.0.1",
+						"os": "iOS",
+						"osVersion": "11.0",
+						"token": "",
+						"applications": [
+							{
+								"name": "App 1",
+								"version": "1.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							},
+							{
+								"name": "App 2",
+								"version": "2.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"dapartmentName": "Content",
+		"color": "#e9cbff",
+		"users": [
+			{
+				"name": "Content",
+				"role": "Manager",
+				"email": "john.m@companyName.com",
+				"emailGroup": "production",
+				"calendar": "https://calendar.google.com/calendar/embed?src=john.m%40companyName.com&ctz=America%2FNew_York",
+				"slackToken": "912uaisfuiaerenqa0wfcieurcnkz",
+				"slackChannels": ["#production", "#production-2"],
+				"department": "Production",
+				"avatar": "https://randomuser.me/api/portraits/",
+				"devices": [
+					{
+						"name": "iPhone X",
+						"macAddress": "00:00:00:00:00:00",
+						"ipAddress": "127.0.0.1",
+						"os": "iOS",
+						"osVersion": "11.0",
+						"token": "",
+						"applications": [
+							{
+								"name": "App 1",
+								"version": "1.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							},
+							{
+								"name": "App 2",
+								"version": "2.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							}
+						]
+					},
+					{
+						"name": "Macbook Pro",
+						"macAddress": "00:00:00:00:00:00",
+						"ipAddress": "127.0.0.1",
+						"os": "iOS",
+						"osVersion": "11.0",
+						"token": "",
+						"applications": [
+							{
+								"name": "App 1",
+								"version": "1.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							},
+							{
+								"name": "App 2",
+								"version": "2.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"dapartmentName": "Design",
+		"color": "#e9cbff",
+		"users": [
+			{
+				"name": "Design",
+				"role": "Manager",
+				"email": "john.m@companyName.com",
+				"emailGroup": "production",
+				"calendar": "https://calendar.google.com/calendar/embed?src=john.m%40companyName.com&ctz=America%2FNew_York",
+				"slackToken": "912uaisfuiaerenqa0wfcieurcnkz",
+				"slackChannels": ["#production", "#production-2"],
+				"department": "Production",
+				"avatar": "https://randomuser.me/api/portraits/",
+				"devices": [
+					{
+						"name": "iPhone X",
+						"macAddress": "00:00:00:00:00:00",
+						"ipAddress": "127.0.0.1",
+						"os": "iOS",
+						"osVersion": "11.0",
+						"token": "",
+						"applications": [
+							{
+								"name": "App 1",
+								"version": "1.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							},
+							{
+								"name": "App 2",
+								"version": "2.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							}
+						]
+					},
+					{
+						"name": "Macbook Pro",
+						"macAddress": "00:00:00:00:00:00",
+						"ipAddress": "127.0.0.1",
+						"os": "iOS",
+						"osVersion": "11.0",
+						"token": "",
+						"applications": [
+							{
+								"name": "App 1",
+								"version": "1.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							},
+							{
+								"name": "App 2",
+								"version": "2.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"dapartmentName": "Strategy & Analytics",
+		"color": "#e9cbff",
+		"users": [
+			{
+				"name": "Design",
+				"role": "Manager",
+				"email": "john.m@companyName.com",
+				"emailGroup": "production",
+				"calendar": "https://calendar.google.com/calendar/embed?src=john.m%40companyName.com&ctz=America%2FNew_York",
+				"slackToken": "912uaisfuiaerenqa0wfcieurcnkz",
+				"slackChannels": ["#production", "#production-2"],
+				"department": "Production",
+				"avatar": "https://randomuser.me/api/portraits/",
+				"devices": [
+					{
+						"name": "iPhone X",
+						"macAddress": "00:00:00:00:00:00",
+						"ipAddress": "127.0.0.1",
+						"os": "iOS",
+						"osVersion": "11.0",
+						"token": "",
+						"applications": [
+							{
+								"name": "App 1",
+								"version": "1.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							},
+							{
+								"name": "App 2",
+								"version": "2.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							}
+						]
+					},
+					{
+						"name": "Macbook Pro",
+						"macAddress": "00:00:00:00:00:00",
+						"ipAddress": "127.0.0.1",
+						"os": "iOS",
+						"osVersion": "11.0",
+						"token": "",
+						"applications": [
+							{
+								"name": "App 1",
+								"version": "1.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							},
+							{
+								"name": "App 2",
+								"version": "2.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"dapartmentName": "UX",
+		"color": "#e9cbff",
+		"users": [
+			{
+				"name": "Design",
+				"role": "Manager",
+				"email": "john.m@companyName.com",
+				"emailGroup": "production",
+				"calendar": "https://calendar.google.com/calendar/embed?src=john.m%40companyName.com&ctz=America%2FNew_York",
+				"slackToken": "912uaisfuiaerenqa0wfcieurcnkz",
+				"slackChannels": ["#production", "#production-2"],
+				"department": "Production",
+				"avatar": "https://randomuser.me/api/portraits/",
+				"devices": [
+					{
+						"name": "iPhone X",
+						"macAddress": "00:00:00:00:00:00",
+						"ipAddress": "127.0.0.1",
+						"os": "iOS",
+						"osVersion": "11.0",
+						"token": "",
+						"applications": [
+							{
+								"name": "App 1",
+								"version": "1.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							},
+							{
+								"name": "App 2",
+								"version": "2.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							}
+						]
+					},
+					{
+						"name": "Macbook Pro",
+						"macAddress": "00:00:00:00:00:00",
+						"ipAddress": "127.0.0.1",
+						"os": "iOS",
+						"osVersion": "11.0",
+						"token": "",
+						"applications": [
+							{
+								"name": "App 1",
+								"version": "1.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							},
+							{
+								"name": "App 2",
+								"version": "2.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"dapartmentName": "People & Culture",
+		"color": "#e9cbff",
+		"users": [
+			{
+				"name": "Design",
+				"role": "Manager",
+				"email": "john.m@companyName.com",
+				"emailGroup": "production",
+				"calendar": "https://calendar.google.com/calendar/embed?src=john.m%40companyName.com&ctz=America%2FNew_York",
+				"slackToken": "912uaisfuiaerenqa0wfcieurcnkz",
+				"slackChannels": ["#production", "#production-2"],
+				"department": "Production",
+				"avatar": "https://randomuser.me/api/portraits/",
+				"devices": [
+					{
+						"name": "iPhone X",
+						"macAddress": "00:00:00:00:00:00",
+						"ipAddress": "127.0.0.1",
+						"os": "iOS",
+						"osVersion": "11.0",
+						"token": "",
+						"applications": [
+							{
+								"name": "App 1",
+								"version": "1.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							},
+							{
+								"name": "App 2",
+								"version": "2.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							}
+						]
+					},
+					{
+						"name": "Macbook Pro",
+						"macAddress": "00:00:00:00:00:00",
+						"ipAddress": "127.0.0.1",
+						"os": "iOS",
+						"osVersion": "11.0",
+						"token": "",
+						"applications": [
+							{
+								"name": "App 1",
+								"version": "1.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							},
+							{
+								"name": "App 2",
+								"version": "2.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"dapartmentName": "Production",
+		"color": "#e9cbff",
+		"users": [
+			{
+				"name": "Design",
+				"role": "Manager",
+				"email": "john.m@companyName.com",
+				"emailGroup": "production",
+				"calendar": "https://calendar.google.com/calendar/embed?src=john.m%40companyName.com&ctz=America%2FNew_York",
+				"slackToken": "912uaisfuiaerenqa0wfcieurcnkz",
+				"slackChannels": ["#production", "#production-2"],
+				"department": "Production",
+				"avatar": "https://randomuser.me/api/portraits/",
+				"devices": [
+					{
+						"name": "iPhone X",
+						"macAddress": "00:00:00:00:00:00",
+						"ipAddress": "127.0.0.1",
+						"os": "iOS",
+						"osVersion": "11.0",
+						"token": "",
+						"applications": [
+							{
+								"name": "App 1",
+								"version": "1.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							},
+							{
+								"name": "App 2",
+								"version": "2.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							}
+						]
+					},
+					{
+						"name": "Macbook Pro",
+						"macAddress": "00:00:00:00:00:00",
+						"ipAddress": "127.0.0.1",
+						"os": "iOS",
+						"osVersion": "11.0",
+						"token": "",
+						"applications": [
+							{
+								"name": "App 1",
+								"version": "1.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							},
+							{
+								"name": "App 2",
+								"version": "2.0.0",
+								"token": "",
+								"url": "https://www.example.com"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]

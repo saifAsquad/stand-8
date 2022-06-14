@@ -1,0 +1,61 @@
+const departments = {
+	creative: {
+		name: "Creative",
+		color: "lightblue",
+		sub: [
+			"cdevitt@bigspaceship.com",
+			"creative@bigspaceship.com",
+			"#disc-art_copy",
+		],
+	},
+	account: {
+		name: "Account",
+		color: "lightgreen",
+		sub: [
+			"accounts@bigspaceship.com",
+			"#accounts_copy",
+			"#disc-accounts_management",
+		],
+	},
+	content: {
+		name: "Content",
+		color: "pink",
+		sub: [
+			"iwannermayer@bigspaceship.com",
+			"content@bigspaceship.com",
+			"#disc-social_content",
+		],
+	},
+	strategyAndAnalytics: {
+		name: "Strategy & Analytics",
+		color: "orange",
+		sub: [
+			"dbor@bigspaceship.com",
+			"strategy_analytics@bigspaceship.com",
+			"#disc-strategy_analytics",
+		],
+	},
+	ux: {
+		name: "UX",
+		color: "lightgreen",
+		sub: ["kdaversa@bigspaceship.com", "people.culture@bigspaceship.com"],
+	},
+	peopleAndCulture: {
+		name: "People & Culture",
+		color: "pink",
+		sub: [
+			"imolsen@bigspaceship.com",
+			"john@bigspaceship.com",
+			"account@bigspaceship.com",
+		],
+	},
+	production: {
+		name: "Production",
+		color: "pink",
+		sub: ["john1@bigspaceship.com", "#disc_production"],
+	},
+};
+
+
+
+
